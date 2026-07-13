@@ -1,8 +1,8 @@
- __pycache__/
-  *.py[cod]
-  .env
-  .venv/
-  venv/
-  *.pt
-  /output/
-  .DS_Store
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+*.pt
+/output/
+.DS_Store
